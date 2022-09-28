@@ -1,0 +1,87 @@
+../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/Types.hpp:94:5:touchgfx::colortype::colortype(uint32_t)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/Types.hpp:146:5:touchgfx::Rect::Rect(int16_t, int16_t, int16_t, int16_t)	24	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:182:13:touchgfx::GenericCallback<void>::~GenericCallback()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:182:13:virtual touchgfx::GenericCallback<void>::~GenericCallback()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:64:13:touchgfx::Drawable::~Drawable()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:64:13:virtual touchgfx::Drawable::~Drawable()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:134:23:virtual touchgfx::Drawable* touchgfx::Drawable::getFirstChild()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:218:10:void touchgfx::Drawable::setPosition(int16_t, int16_t, int16_t, int16_t)	24	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:271:18:virtual void touchgfx::Drawable::setX(int16_t)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:283:18:virtual void touchgfx::Drawable::setY(int16_t)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:299:10:void touchgfx::Drawable::setXY(int16_t, int16_t)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:312:18:virtual void touchgfx::Drawable::setWidth(int16_t)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:324:18:virtual void touchgfx::Drawable::setHeight(int16_t)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:334:18:virtual void touchgfx::Drawable::childGeometryChanged()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:345:18:virtual void touchgfx::Drawable::handleClickEvent(const touchgfx::ClickEvent&)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:356:18:virtual void touchgfx::Drawable::handleGestureEvent(const touchgfx::GestureEvent&)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:367:10:void touchgfx::Drawable::setWidthHeight(int16_t, int16_t)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:444:18:virtual void touchgfx::Drawable::handleDragEvent(const touchgfx::DragEvent&)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:454:18:virtual void touchgfx::Drawable::handleTickEvent()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:490:10:bool touchgfx::Drawable::isVisible() const	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:502:10:bool touchgfx::Drawable::isTouchable() const	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:541:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:578:10:void touchgfx::Drawable::resetDrawChainCache()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:656:18:virtual void touchgfx::Drawable::setupDrawChain(const touchgfx::Rect&, touchgfx::Drawable**)	24	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/Container.hpp:154:23:virtual touchgfx::Drawable* touchgfx::Container::getFirstChild()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:49:13:touchgfx::Screen::~Screen()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:49:13:virtual touchgfx::Screen::~Screen()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:96:18:virtual void touchgfx::Screen::setupScreen()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:107:18:virtual void touchgfx::Screen::afterTransition()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:118:18:virtual void touchgfx::Screen::tearDownScreen()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:147:18:virtual void touchgfx::Screen::handleTickEvent()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:157:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:205:10:void touchgfx::Screen::add(touchgfx::Drawable&)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Widget.hpp:50:18:virtual void touchgfx::Widget::getLastChild(int16_t, int16_t, touchgfx::Drawable**)	24	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Widget.hpp:39:7:touchgfx::Widget::~Widget()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Widget.hpp:39:7:virtual touchgfx::Widget::~Widget()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/AbstractButton.hpp:34:7:touchgfx::AbstractButton::~AbstractButton()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/AbstractButton.hpp:34:7:virtual touchgfx::AbstractButton::~AbstractButton()	16	static
+../Middlewares/ST/touchgfx/framework/include/mvp/View.hpp:40:7:touchgfx::View<ScreenKeyboardPresenter>::~View()	16	static
+../Middlewares/ST/touchgfx/framework/include/mvp/View.hpp:40:7:virtual touchgfx::View<ScreenKeyboardPresenter>::~View()	16	static
+../TouchGFX/generated/gui_generated/include/gui_generated/screenkeyboard_screen/ScreenKeyboardViewBase.hpp:18:13:ScreenKeyboardViewBase::~ScreenKeyboardViewBase()	16	static
+../TouchGFX/generated/gui_generated/include/gui_generated/screenkeyboard_screen/ScreenKeyboardViewBase.hpp:18:13:virtual ScreenKeyboardViewBase::~ScreenKeyboardViewBase()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:62:14:touchgfx::TypedText::TypedText(touchgfx::TypedTextId)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:68:13:touchgfx::TypedText::~TypedText()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:68:13:virtual touchgfx::TypedText::~TypedText()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:44:7:touchgfx::TextArea::~TextArea()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:44:7:virtual touchgfx::TextArea::~TextArea()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/Container.hpp:42:7:touchgfx::Container::~Container()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/Container.hpp:42:7:virtual touchgfx::Container::~Container()	16	static
+../TouchGFX/gui/include/gui/common/CustomKeyboard.hpp:25:13:CustomKeyboard::~CustomKeyboard()	16	static
+../TouchGFX/gui/include/gui/common/CustomKeyboard.hpp:25:13:virtual CustomKeyboard::~CustomKeyboard()	16	static
+../TouchGFX/gui/include/gui/screenkeyboard_screen/ScreenKeyboardView.hpp:12:13:ScreenKeyboardView::~ScreenKeyboardView()	16	static
+../TouchGFX/gui/include/gui/screenkeyboard_screen/ScreenKeyboardView.hpp:12:13:virtual ScreenKeyboardView::~ScreenKeyboardView()	16	static
+..\TouchGFX\gui\src\screenkeyboard_screen\ScreenKeyboardView.cpp:6:1:ScreenKeyboardView::ScreenKeyboardView()	24	static
+..\TouchGFX\gui\src\screenkeyboard_screen\ScreenKeyboardView.cpp:12:6:virtual void ScreenKeyboardView::setupScreen()	16	static
+..\TouchGFX\gui\src\screenkeyboard_screen\ScreenKeyboardView.cpp:17:6:virtual void ScreenKeyboardView::tearDownScreen()	16	static
+..\TouchGFX\gui\src\screenkeyboard_screen\ScreenKeyboardView.cpp:22:6:virtual void ScreenKeyboardView::getBuffer()	32	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Keyboard.hpp:91:7:touchgfx::Keyboard::Layout::~Layout()	16	static
+..\TouchGFX\gui\src\screenkeyboard_screen\ScreenKeyboardView.cpp:26:1:void __static_initialization_and_destruction_0(int, int)	32	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Box.hpp:36:7:touchgfx::Box::~Box()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Box.hpp:36:7:virtual touchgfx::Box::~Box()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Image.hpp:42:7:touchgfx::Image::~Image()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Image.hpp:42:7:virtual touchgfx::Image::~Image()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Button.hpp:33:7:touchgfx::Button::~Button()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Button.hpp:33:7:virtual touchgfx::Button::~Button()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:362:8:touchgfx::Callback<ScreenKeyboardViewBase, const touchgfx::AbstractButton&>::~Callback()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:362:8:virtual touchgfx::Callback<ScreenKeyboardViewBase, const touchgfx::AbstractButton&>::~Callback()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextAreaWithWildcard.hpp:37:7:touchgfx::TextAreaWithOneWildcard::~TextAreaWithOneWildcard()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextAreaWithWildcard.hpp:37:7:virtual touchgfx::TextAreaWithOneWildcard::~TextAreaWithOneWildcard()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Keyboard.hpp:56:7:touchgfx::Keyboard::~Keyboard()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Keyboard.hpp:56:7:virtual touchgfx::Keyboard::~Keyboard()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:430:8:touchgfx::Callback<CustomKeyboard>::~Callback()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:430:8:virtual touchgfx::Callback<CustomKeyboard>::~Callback()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:362:8:touchgfx::Callback<CustomKeyboard, short unsigned int>::~Callback()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:362:8:virtual touchgfx::Callback<CustomKeyboard, short unsigned int>::~Callback()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:141:13:touchgfx::GenericCallback<T1, void, void>::~GenericCallback() [with T1 = const touchgfx::AbstractButton&]	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:141:13:touchgfx::GenericCallback<T1, void, void>::~GenericCallback() [with T1 = const touchgfx::AbstractButton&]	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:141:13:touchgfx::GenericCallback<T1, void, void>::~GenericCallback() [with T1 = short unsigned int]	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:141:13:touchgfx::GenericCallback<T1, void, void>::~GenericCallback() [with T1 = short unsigned int]	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:392:18:void touchgfx::Callback<dest_type, T1, void, void>::execute(T1) [with dest_type = CustomKeyboard; T1 = short unsigned int]	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:402:18:bool touchgfx::Callback<dest_type, T1, void, void>::isValid() const [with dest_type = CustomKeyboard; T1 = short unsigned int]	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:456:18:void touchgfx::Callback<dest_type, void, void, void>::execute() [with dest_type = CustomKeyboard]	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:466:18:bool touchgfx::Callback<dest_type, void, void, void>::isValid() const [with dest_type = CustomKeyboard]	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:392:18:void touchgfx::Callback<dest_type, T1, void, void>::execute(T1) [with dest_type = ScreenKeyboardViewBase; T1 = const touchgfx::AbstractButton&]	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:402:18:bool touchgfx::Callback<dest_type, T1, void, void>::isValid() const [with dest_type = ScreenKeyboardViewBase; T1 = const touchgfx::AbstractButton&]	16	static
+..\TouchGFX\gui\src\screenkeyboard_screen\ScreenKeyboardView.cpp:26:1:cpp)	8	static
+..\TouchGFX\gui\src\screenkeyboard_screen\ScreenKeyboardView.cpp:26:1:cpp)	8	static

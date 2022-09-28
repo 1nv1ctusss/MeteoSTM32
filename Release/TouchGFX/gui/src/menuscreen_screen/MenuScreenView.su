@@ -1,0 +1,9 @@
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:147:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:157:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+../TouchGFX/gui/include/gui/menuscreen_screen/MenuScreenView.hpp:11:13:MenuScreenView::~MenuScreenView()	0	static
+../TouchGFX/gui/src/menuscreen_screen/MenuScreenView.cpp:20:6:virtual void MenuScreenView::tearDownScreen()	0	static
+../TouchGFX/gui/src/menuscreen_screen/MenuScreenView.cpp:25:6:virtual void MenuScreenView::keyboardSelected(uint8_t)	0	static
+../TouchGFX/gui/src/menuscreen_screen/MenuScreenView.cpp:15:6:virtual void MenuScreenView::setupScreen()	0	static
+../TouchGFX/gui/src/menuscreen_screen/MenuScreenView.cpp:30:6:virtual void MenuScreenView::updateScreen()	72	static
+../TouchGFX/gui/include/gui/menuscreen_screen/MenuScreenView.hpp:11:13:virtual MenuScreenView::~MenuScreenView()	8	static
+../TouchGFX/gui/src/menuscreen_screen/MenuScreenView.cpp:10:1:MenuScreenView::MenuScreenView()	8	static

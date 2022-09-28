@@ -1,0 +1,49 @@
+[0.000] initConfigParams():  Configuration flags start
+[0.000] initConfigParams():   external-init                  false
+[0.000] initConfigParams():   pend-halt-timeout              (null)
+[0.000] initConfigParams():   halt                           false
+[0.000] initConfigParams():   config-file                    ""
+[0.000] initConfigParams():   persistent                     false
+[0.000] initConfigParams():  +log-file                       "F:\SPELS\meteo_tgfx\Debug\st-link_gdbserver_log.txt"
+[0.000] initConfigParams():  +log-level                      31
+[0.000] initConfigParams():  +port-number                    61234
+[0.000] initConfigParams():  +verbose                        true
+[0.000] initConfigParams():   refresh-delay                  15
+[0.000] initConfigParams():  +verify                         true
+[0.000] initConfigParams():  +swd                            true
+[0.001] initConfigParams():   swo-port                       61234
+[0.001] initConfigParams():   cpu-clock                      8000000
+[0.001] initConfigParams():   swo-clock-div                  128
+[0.001] initConfigParams():   initialize-reset               false
+[0.001] initConfigParams():   debuggers                      false
+[0.001] initConfigParams():   serial-number                  ""
+[0.001] initConfigParams():  +apid                           0
+[0.001] initConfigParams():  +attach                         true
+[0.001] initConfigParams():   shared                         false
+[0.001] initConfigParams():   erase-all                      false
+[0.001] initConfigParams():   memory-map                     ""
+[0.001] initConfigParams():   ext-memory-loaders             false
+[0.001] initConfigParams():   extload                        ""
+[0.001] initConfigParams():  +stm32cubeprogrammer-path       "C:\ST\STM32CubeIDE_1.5.1\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.cubeprogrammer.win32_1.5.0.202011040924\tools\bin"
+[0.001] initConfigParams():   temp-path                      ""
+[0.001] initConfigParams():   preserve-temps                 false
+[0.001] initConfigParams():   frequency                      -1
+[0.001] initConfigParams():   licenses                       false
+[0.001] initConfigParams():   ignore-rest                    false
+[0.001] initConfigParams():   version                        false
+[0.001] initConfigParams():   help                           false
+[0.001] initConfigParams():  Configuration flags end
+[0.001] init():  STMicroelectronics ST-LINK GDB server. Version 5.7.0
+Copyright (c) 2020, STMicroelectronics. All rights reserved.
+[0.007] Device_Initialise():  Target connection mode: Attach
+[0.065] readFromTarget():  Reading ROM table for AP 0 @0xe00fefd0
+[0.068] reset_hw_wtchpt_module():  Hardware watchpoint supported by the target 
+[0.071] Device_Initialise():  COM frequency = 4000 kHz
+[0.071] Device_Initialise():  ST-LINK Firmware version : V2J39S7
+[0.071] Device_Initialise():  Device ID: 0x450
+[0.071] Device_Initialise():  PC: 0x75f9e0
+[0.072] Device_GetStatus():  ST-LINK device status: RUN_MODE
+[0.072] Device_Initialise():  ST-LINK detects target voltage = 3.22 V
+[0.072] Device_Initialise():  ST-LINK device status: RUN_MODE
+[0.072] initServerContext():  ST-LINK device initialization OK
+[0.073] ServerSocket():  Failed to bind to port 61234, error code -1: No error

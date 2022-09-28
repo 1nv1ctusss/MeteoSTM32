@@ -1,0 +1,12 @@
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:107:18:virtual void touchgfx::Screen::afterTransition()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:147:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:157:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:68:13:touchgfx::TypedText::~TypedText()	0	static
+../TouchGFX/gui/include/gui/screenkeyboard_screen/ScreenKeyboardView.hpp:12:13:ScreenKeyboardView::~ScreenKeyboardView()	0	static
+../TouchGFX/gui/src/screenkeyboard_screen/ScreenKeyboardView.cpp:17:6:virtual void ScreenKeyboardView::tearDownScreen()	0	static
+../TouchGFX/gui/src/screenkeyboard_screen/ScreenKeyboardView.cpp:12:6:virtual void ScreenKeyboardView::setupScreen()	0	static
+../TouchGFX/gui/src/screenkeyboard_screen/ScreenKeyboardView.cpp:22:6:virtual void ScreenKeyboardView::getBuffer()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:68:13:virtual touchgfx::TypedText::~TypedText()	8	static
+../TouchGFX/gui/include/gui/screenkeyboard_screen/ScreenKeyboardView.hpp:12:13:virtual ScreenKeyboardView::~ScreenKeyboardView()	8	static
+../TouchGFX/gui/src/screenkeyboard_screen/ScreenKeyboardView.cpp:6:1:ScreenKeyboardView::ScreenKeyboardView()	16	static
+../TouchGFX/gui/src/screenkeyboard_screen/ScreenKeyboardView.cpp:26:1:cpp)	0	static

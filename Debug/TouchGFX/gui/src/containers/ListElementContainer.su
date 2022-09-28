@@ -1,0 +1,40 @@
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:64:13:touchgfx::Drawable::~Drawable()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:64:13:virtual touchgfx::Drawable::~Drawable()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:134:23:virtual touchgfx::Drawable* touchgfx::Drawable::getFirstChild()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:271:18:virtual void touchgfx::Drawable::setX(int16_t)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:283:18:virtual void touchgfx::Drawable::setY(int16_t)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:312:18:virtual void touchgfx::Drawable::setWidth(int16_t)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:324:18:virtual void touchgfx::Drawable::setHeight(int16_t)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:334:18:virtual void touchgfx::Drawable::childGeometryChanged()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:345:18:virtual void touchgfx::Drawable::handleClickEvent(const touchgfx::ClickEvent&)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:356:18:virtual void touchgfx::Drawable::handleGestureEvent(const touchgfx::GestureEvent&)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:444:18:virtual void touchgfx::Drawable::handleDragEvent(const touchgfx::DragEvent&)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:454:18:virtual void touchgfx::Drawable::handleTickEvent()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:490:10:bool touchgfx::Drawable::isVisible() const	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:502:10:bool touchgfx::Drawable::isTouchable() const	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:541:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:578:10:void touchgfx::Drawable::resetDrawChainCache()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:656:18:virtual void touchgfx::Drawable::setupDrawChain(const touchgfx::Rect&, touchgfx::Drawable**)	24	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/Container.hpp:154:23:virtual touchgfx::Drawable* touchgfx::Container::getFirstChild()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Widget.hpp:50:18:virtual void touchgfx::Widget::getLastChild(int16_t, int16_t, touchgfx::Drawable**)	24	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Widget.hpp:39:7:touchgfx::Widget::~Widget()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Widget.hpp:39:7:virtual touchgfx::Widget::~Widget()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:68:13:touchgfx::TypedText::~TypedText()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:68:13:virtual touchgfx::TypedText::~TypedText()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:44:7:touchgfx::TextArea::~TextArea()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:44:7:virtual touchgfx::TextArea::~TextArea()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/Container.hpp:42:7:touchgfx::Container::~Container()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/Container.hpp:42:7:virtual touchgfx::Container::~Container()	16	static
+../TouchGFX/generated/gui_generated/include/gui_generated/containers/ListElementContainerBase.hpp:16:13:ListElementContainerBase::~ListElementContainerBase()	16	static
+../TouchGFX/generated/gui_generated/include/gui_generated/containers/ListElementContainerBase.hpp:16:13:virtual ListElementContainerBase::~ListElementContainerBase()	16	static
+../TouchGFX/gui/include/gui/containers/ListElementContainer.hpp:10:13:ListElementContainer::~ListElementContainer()	16	static
+../TouchGFX/gui/include/gui/containers/ListElementContainer.hpp:10:13:virtual ListElementContainer::~ListElementContainer()	16	static
+..\TouchGFX\gui\src\containers\ListElementContainer.cpp:3:1:ListElementContainer::ListElementContainer()	16	static
+..\TouchGFX\gui\src\containers\ListElementContainer.cpp:8:6:virtual void ListElementContainer::initialize()	16	static
+..\TouchGFX\gui\src\containers\ListElementContainer.cpp:13:6:virtual void ListElementContainer::set_name(touchgfx::Unicode::UnicodeChar*)	16	static
+..\TouchGFX\gui\src\containers\ListElementContainer.cpp:19:6:virtual void ListElementContainer::set_unit(touchgfx::Unicode::UnicodeChar*)	16	static
+..\TouchGFX\gui\src\containers\ListElementContainer.cpp:25:6:virtual void ListElementContainer::set_value(int32_t)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Image.hpp:42:7:touchgfx::Image::~Image()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Image.hpp:42:7:virtual touchgfx::Image::~Image()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextAreaWithWildcard.hpp:37:7:touchgfx::TextAreaWithOneWildcard::~TextAreaWithOneWildcard()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextAreaWithWildcard.hpp:37:7:virtual touchgfx::TextAreaWithOneWildcard::~TextAreaWithOneWildcard()	16	static

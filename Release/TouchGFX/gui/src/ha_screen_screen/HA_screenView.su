@@ -1,0 +1,13 @@
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:107:18:virtual void touchgfx::Screen::afterTransition()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:147:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:157:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+../TouchGFX/gui/src/ha_screen_screen/HA_screenView.cpp:54:6:virtual void HA_screenView::tearDownScreen()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/scrollers/DrawableList.hpp:79:7:touchgfx::DrawableListItems<ListElementContainer, 6>::~DrawableListItems()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/scrollers/DrawableList.hpp:101:21:int16_t touchgfx::DrawableListItems<TYPE, SIZE>::getNumberOfDrawables() [with TYPE = ListElementContainer; int SIZE = 6]	0	static
+../TouchGFX/gui/src/ha_screen_screen/HA_screenView.cpp:8:6:virtual void HA_screenView::scrollList1UpdateItem(ListElementContainer&, int16_t)	96	static
+../TouchGFX/gui/src/ha_screen_screen/HA_screenView.cpp:40:6:virtual void HA_screenView::setupScreen()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/scrollers/DrawableList.hpp:79:7:virtual touchgfx::DrawableListItems<ListElementContainer, 6>::~DrawableListItems()	8	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/scrollers/DrawableList.hpp:82:23:touchgfx::Drawable* touchgfx::DrawableListItems<TYPE, SIZE>::getDrawable(int16_t) [with TYPE = ListElementContainer; int SIZE = 6]	8	static
+../TouchGFX/gui/include/gui/ha_screen_screen/HA_screenView.hpp:11:13:HA_screenView::~HA_screenView()	8	static
+../TouchGFX/gui/include/gui/ha_screen_screen/HA_screenView.hpp:11:13:virtual HA_screenView::~HA_screenView()	8	static
+../TouchGFX/gui/src/ha_screen_screen/HA_screenView.cpp:35:1:HA_screenView::HA_screenView()	8	static

@@ -1,0 +1,14 @@
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Font.hpp:177:30:virtual const GlyphNode* touchgfx::Font::getGlyph(touchgfx::Unicode::UnicodeChar) const	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Font.hpp:196:34:virtual touchgfx::Unicode::UnicodeChar touchgfx::Font::getFallbackChar() const	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Font.hpp:209:34:virtual touchgfx::Unicode::UnicodeChar touchgfx::Font::getEllipsisChar() const	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Font.hpp:298:44:virtual uint16_t touchgfx::Font::getFontHeight() const	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Font.hpp:310:44:virtual uint16_t touchgfx::Font::getMinimumTextHeight() const	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Font.hpp:320:43:virtual uint8_t touchgfx::Font::getBitsPerPixel() const	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Font.hpp:330:43:virtual uint8_t touchgfx::Font::getByteAlignRow() const	0	static
+../TouchGFX/generated/fonts/include/fonts/CachedFont.hpp:59:18:virtual void touchgfx::CachedFont::setGSUBTable(const uint16_t*)	0	static
+../TouchGFX/generated/fonts/src/CachedFont.cpp:8:16:virtual const uint8_t* touchgfx::CachedFont::getPixelData(const GlyphNode*) const	0	static
+../TouchGFX/generated/fonts/src/CachedFont.cpp:53:8:virtual int8_t touchgfx::CachedFont::getKerning(touchgfx::Unicode::UnicodeChar, const GlyphNode*) const	0	static
+../TouchGFX/generated/fonts/include/fonts/CachedFont.hpp:12:7:touchgfx::CachedFont::~CachedFont()	0	static
+../TouchGFX/generated/fonts/src/CachedFont.cpp:22:18:virtual const GlyphNode* touchgfx::CachedFont::getGlyph(touchgfx::Unicode::UnicodeChar, const uint8_t*&, uint8_t&) const	32	static
+../TouchGFX/generated/fonts/include/fonts/CachedFont.hpp:12:7:virtual touchgfx::CachedFont::~CachedFont()	8	static
+../TouchGFX/generated/fonts/include/fonts/CachedFont.hpp:50:29:virtual const uint16_t* touchgfx::CachedFont::getGSUBTable() const	0	static

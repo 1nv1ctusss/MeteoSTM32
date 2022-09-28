@@ -1,0 +1,27 @@
+../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/Types.hpp:94:5:touchgfx::colortype::colortype(uint32_t)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/Types.hpp:146:5:touchgfx::Rect::Rect(int16_t, int16_t, int16_t, int16_t)	24	static
+../Middlewares/ST/touchgfx/framework/include/mvp/Presenter.hpp:40:18:virtual void touchgfx::Presenter::activate()	16	static
+../Middlewares/ST/touchgfx/framework/include/mvp/Presenter.hpp:50:18:virtual void touchgfx::Presenter::deactivate()	16	static
+../Middlewares/ST/touchgfx/framework/include/mvp/Presenter.hpp:55:13:touchgfx::Presenter::~Presenter()	16	static
+../Middlewares/ST/touchgfx/framework/include/mvp/Presenter.hpp:55:13:virtual touchgfx::Presenter::~Presenter()	16	static
+../Middlewares/ST/touchgfx/framework/include/mvp/Presenter.hpp:61:5:touchgfx::Presenter::Presenter()	16	static
+../TouchGFX/gui/include/gui/model/ModelListener.hpp:14:5:ModelListener::ModelListener()	16	static
+../TouchGFX/gui/include/gui/model/ModelListener.hpp:16:13:ModelListener::~ModelListener()	16	static
+../TouchGFX/gui/include/gui/model/ModelListener.hpp:16:13:virtual ModelListener::~ModelListener()	16	static
+../TouchGFX/gui/include/gui/model/ModelListener.hpp:24:18:virtual void ModelListener::addNewSensor(Sensor)	16	static
+../TouchGFX/gui/include/gui/model/ModelListener.hpp:25:18:virtual void ModelListener::setClimateData(int, int, int)	24	static
+../TouchGFX/gui/include/gui/model/ModelListener.hpp:26:18:virtual void ModelListener::setOutTemp(int, int, char*)	24	static
+../TouchGFX/gui/include/gui/model/ModelListener.hpp:29:18:virtual void ModelListener::setWLANstatus()	16	static
+../TouchGFX/gui/include/gui/model/ModelListener.hpp:30:18:virtual void ModelListener::setClockData(uint32_t)	16	static
+../TouchGFX/gui/include/gui/screenkeyboard_screen/ScreenKeyboardPresenter.hpp:28:13:ScreenKeyboardPresenter::~ScreenKeyboardPresenter()	16	static
+../TouchGFX/gui/include/gui/screenkeyboard_screen/ScreenKeyboardPresenter.hpp:28:13:virtual ScreenKeyboardPresenter::~ScreenKeyboardPresenter()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:62:14:touchgfx::TypedText::TypedText(touchgfx::TypedTextId)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:68:13:touchgfx::TypedText::~TypedText()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:68:13:virtual touchgfx::TypedText::~TypedText()	16	static
+..\TouchGFX\gui\src\screenkeyboard_screen\ScreenKeyboardPresenter.cpp:4:1:ScreenKeyboardPresenter::ScreenKeyboardPresenter(ScreenKeyboardView&)	16	static
+..\TouchGFX\gui\src\screenkeyboard_screen\ScreenKeyboardPresenter.cpp:10:6:virtual void ScreenKeyboardPresenter::activate()	16	static
+..\TouchGFX\gui\src\screenkeyboard_screen\ScreenKeyboardPresenter.cpp:15:6:virtual void ScreenKeyboardPresenter::deactivate()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Keyboard.hpp:91:7:touchgfx::Keyboard::Layout::~Layout()	16	static
+..\TouchGFX\gui\src\screenkeyboard_screen\ScreenKeyboardPresenter.cpp:18:1:void __static_initialization_and_destruction_0(int, int)	32	static
+..\TouchGFX\gui\src\screenkeyboard_screen\ScreenKeyboardPresenter.cpp:18:1:cpp)	8	static
+..\TouchGFX\gui\src\screenkeyboard_screen\ScreenKeyboardPresenter.cpp:18:1:cpp)	8	static

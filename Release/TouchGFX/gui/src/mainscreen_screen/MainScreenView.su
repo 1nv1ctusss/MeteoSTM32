@@ -1,0 +1,19 @@
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:107:18:virtual void touchgfx::Screen::afterTransition()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:147:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:157:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+../TouchGFX/gui/src/mainscreen_screen/MainScreenView.cpp:226:6:virtual void MainScreenView::setWLANstatus()	0	static
+../TouchGFX/gui/src/mainscreen_screen/MainScreenView.cpp:275:6:virtual void MainScreenView::SetBrightness(int)	0	static
+../TouchGFX/gui/src/mainscreen_screen/MainScreenView.cpp:293:6:virtual void MainScreenView::tearDownScreen()	0	static
+../TouchGFX/gui/src/mainscreen_screen/MainScreenView.cpp:183:6:virtual void MainScreenView::updateWeatherCondition(char*)	16	static
+../TouchGFX/gui/src/mainscreen_screen/MainScreenView.cpp:262:6:virtual void MainScreenView::setupScreen()	8	static
+../TouchGFX/gui/src/mainscreen_screen/MainScreenView.cpp:153:6:virtual void MainScreenView::updateOutTemperature(int)	16	static
+../TouchGFX/gui/src/mainscreen_screen/MainScreenView.cpp:168:6:virtual void MainScreenView::updateOutHumidity(int)	16	static
+../TouchGFX/gui/src/mainscreen_screen/MainScreenView.cpp:55:6:virtual void MainScreenView::updateTemperature(int)	32	static
+../TouchGFX/gui/src/mainscreen_screen/MainScreenView.cpp:124:6:virtual void MainScreenView::updateHumidity(int)	24	static
+../TouchGFX/gui/src/mainscreen_screen/MainScreenView.cpp:236:6:virtual void MainScreenView::updateClock(uint32_t)	32	static
+../TouchGFX/gui/src/mainscreen_screen/MainScreenView.cpp:78:6:virtual void MainScreenView::updateCO2(int)	24	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Bitmap.hpp:137:14:touchgfx::BitmapId touchgfx::Bitmap::getId() const	8	static
+../TouchGFX/gui/src/mainscreen_screen/MainScreenView.cpp:285:6:virtual void MainScreenView::toggleEmulation()	16	static
+../TouchGFX/gui/src/mainscreen_screen/MainScreenView.cpp:17:1:MainScreenView::MainScreenView()	16	static
+../TouchGFX/gui/include/gui/mainscreen_screen/MainScreenView.hpp:12:13:MainScreenView::~MainScreenView()	8	static
+../TouchGFX/gui/include/gui/mainscreen_screen/MainScreenView.hpp:12:13:virtual MainScreenView::~MainScreenView()	8	static

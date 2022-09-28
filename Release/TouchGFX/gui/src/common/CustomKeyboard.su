@@ -1,0 +1,36 @@
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:134:23:virtual touchgfx::Drawable* touchgfx::Drawable::getFirstChild()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:271:18:virtual void touchgfx::Drawable::setX(int16_t)	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:283:18:virtual void touchgfx::Drawable::setY(int16_t)	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:312:18:virtual void touchgfx::Drawable::setWidth(int16_t)	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:324:18:virtual void touchgfx::Drawable::setHeight(int16_t)	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:334:18:virtual void touchgfx::Drawable::childGeometryChanged()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:345:18:virtual void touchgfx::Drawable::handleClickEvent(const touchgfx::ClickEvent&)	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:356:18:virtual void touchgfx::Drawable::handleGestureEvent(const touchgfx::GestureEvent&)	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:444:18:virtual void touchgfx::Drawable::handleDragEvent(const touchgfx::DragEvent&)	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:454:18:virtual void touchgfx::Drawable::handleTickEvent()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:541:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	4	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:656:18:virtual void touchgfx::Drawable::setupDrawChain(const touchgfx::Rect&, touchgfx::Drawable**)	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/Container.hpp:154:23:virtual touchgfx::Drawable* touchgfx::Container::getFirstChild()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Widget.hpp:50:18:virtual void touchgfx::Widget::getLastChild(int16_t, int16_t, touchgfx::Drawable**)	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:68:13:touchgfx::TypedText::~TypedText()	0	static
+../TouchGFX/gui/include/gui/common/CustomKeyboard.hpp:25:13:CustomKeyboard::~CustomKeyboard()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:362:8:touchgfx::Callback<CustomKeyboard, short unsigned int>::~Callback()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:430:8:touchgfx::Callback<CustomKeyboard>::~Callback()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:392:18:void touchgfx::Callback<dest_type, T1, void, void>::execute(T1) [with dest_type = CustomKeyboard; T1 = short unsigned int]	8	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:402:18:bool touchgfx::Callback<dest_type, T1, void, void>::isValid() const [with dest_type = CustomKeyboard; T1 = short unsigned int]	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:456:18:void touchgfx::Callback<dest_type, void, void, void>::execute() [with dest_type = CustomKeyboard]	4	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:466:18:bool touchgfx::Callback<dest_type, void, void, void>::isValid() const [with dest_type = CustomKeyboard]	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:68:13:virtual touchgfx::TypedText::~TypedText()	8	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:430:8:virtual touchgfx::Callback<CustomKeyboard>::~Callback()	8	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:362:8:virtual touchgfx::Callback<CustomKeyboard, short unsigned int>::~Callback()	8	static
+../TouchGFX/gui/include/gui/common/CustomKeyboard.hpp:25:13:virtual CustomKeyboard::~CustomKeyboard()	8	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:218:10:void touchgfx::Drawable::setPosition(int16_t, int16_t, int16_t, int16_t)	24	static
+../TouchGFX/gui/src/common/CustomKeyboard.cpp:37:6:void CustomKeyboard::setKeyMappingList()	24	static
+../TouchGFX/gui/src/common/CustomKeyboard.cpp:65:6:void CustomKeyboard::backspacePressedHandler()	16	static
+../TouchGFX/gui/src/common/CustomKeyboard.cpp:84:6:void CustomKeyboard::capslockPressedHandler()	0	static
+../TouchGFX/gui/src/common/CustomKeyboard.cpp:90:6:void CustomKeyboard::modePressedHandler()	0	static
+../TouchGFX/gui/src/common/CustomKeyboard.cpp:107:6:void CustomKeyboard::keyPressedhandler(touchgfx::Unicode::UnicodeChar)	0	static
+../TouchGFX/gui/src/common/CustomKeyboard.cpp:3:1:CustomKeyboard::CustomKeyboard()	40	static
+../TouchGFX/gui/src/common/CustomKeyboard.cpp:118:6:void CustomKeyboard::setTouchable(bool)	0	static
+../TouchGFX/gui/src/common/CustomKeyboard.cpp:124:23:touchgfx::Unicode::UnicodeChar* CustomKeyboard::getBuffer()	0	static
+../TouchGFX/gui/src/common/CustomKeyboard.cpp:127:1:cpp)	36	static

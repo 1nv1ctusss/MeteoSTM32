@@ -1,0 +1,26 @@
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:134:23:virtual touchgfx::Drawable* touchgfx::Drawable::getFirstChild()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:271:18:virtual void touchgfx::Drawable::setX(int16_t)	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:283:18:virtual void touchgfx::Drawable::setY(int16_t)	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:312:18:virtual void touchgfx::Drawable::setWidth(int16_t)	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:324:18:virtual void touchgfx::Drawable::setHeight(int16_t)	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:334:18:virtual void touchgfx::Drawable::childGeometryChanged()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:345:18:virtual void touchgfx::Drawable::handleClickEvent(const touchgfx::ClickEvent&)	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:356:18:virtual void touchgfx::Drawable::handleGestureEvent(const touchgfx::GestureEvent&)	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:444:18:virtual void touchgfx::Drawable::handleDragEvent(const touchgfx::DragEvent&)	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:454:18:virtual void touchgfx::Drawable::handleTickEvent()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:541:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	4	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:656:18:virtual void touchgfx::Drawable::setupDrawChain(const touchgfx::Rect&, touchgfx::Drawable**)	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/Container.hpp:154:23:virtual touchgfx::Drawable* touchgfx::Container::getFirstChild()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Widget.hpp:50:18:virtual void touchgfx::Widget::getLastChild(int16_t, int16_t, touchgfx::Drawable**)	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:68:13:touchgfx::TypedText::~TypedText()	0	static
+../TouchGFX/generated/gui_generated/include/gui_generated/containers/ListElementContainerBase.hpp:16:13:ListElementContainerBase::~ListElementContainerBase()	0	static
+../TouchGFX/generated/gui_generated/src/containers/ListElementContainerBase.cpp:47:6:virtual void ListElementContainerBase::initialize()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:68:13:virtual touchgfx::TypedText::~TypedText()	8	static
+../TouchGFX/generated/gui_generated/include/gui_generated/containers/ListElementContainerBase.hpp:16:13:virtual ListElementContainerBase::~ListElementContainerBase()	8	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:53:5:touchgfx::Drawable::Drawable()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:299:10:void touchgfx::Drawable::setXY(int16_t, int16_t)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:218:10:void touchgfx::Drawable::setPosition(int16_t, int16_t, int16_t, int16_t)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Image.hpp:54:5:touchgfx::Image::Image(const touchgfx::Bitmap&)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextAreaWithWildcard.hpp:40:5:touchgfx::TextAreaWithOneWildcard::TextAreaWithOneWildcard()	8	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Color.hpp:51:22:static touchgfx::colortype touchgfx::Color::getColorFrom24BitRGB(uint8_t, uint8_t, uint8_t)	16	static
+../TouchGFX/generated/gui_generated/src/containers/ListElementContainerBase.cpp:9:1:ListElementContainerBase::ListElementContainerBase()	56	static

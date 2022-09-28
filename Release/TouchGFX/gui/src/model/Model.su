@@ -1,0 +1,5 @@
+../TouchGFX/gui/src/model/Model.cpp:62:6:void initArray(Array*, size_t)	16	static
+../TouchGFX/gui/src/model/Model.cpp:23:1:Model::Model()	8	static
+../TouchGFX/gui/src/model/Model.cpp:68:6:void insertArray(Array*, Sensor)	16	static
+../TouchGFX/gui/src/model/Model.cpp:30:6:void Model::tick()	320	static
+../TouchGFX/gui/src/model/Model.cpp:78:8:Sensor getSensors(uint8_t)	8	static

@@ -1,0 +1,20 @@
+../Middlewares/ST/touchgfx/framework/include/mvp/Presenter.hpp:40:18:virtual void touchgfx::Presenter::activate()	16	static
+../Middlewares/ST/touchgfx/framework/include/mvp/Presenter.hpp:50:18:virtual void touchgfx::Presenter::deactivate()	16	static
+../Middlewares/ST/touchgfx/framework/include/mvp/Presenter.hpp:55:13:touchgfx::Presenter::~Presenter()	16	static
+../Middlewares/ST/touchgfx/framework/include/mvp/Presenter.hpp:55:13:virtual touchgfx::Presenter::~Presenter()	16	static
+../Middlewares/ST/touchgfx/framework/include/mvp/Presenter.hpp:61:5:touchgfx::Presenter::Presenter()	16	static
+../TouchGFX/gui/include/gui/model/Model.hpp:30:10:void Model::HAScreenActive()	16	static
+../TouchGFX/gui/include/gui/model/ModelListener.hpp:14:5:ModelListener::ModelListener()	16	static
+../TouchGFX/gui/include/gui/model/ModelListener.hpp:16:13:ModelListener::~ModelListener()	16	static
+../TouchGFX/gui/include/gui/model/ModelListener.hpp:16:13:virtual ModelListener::~ModelListener()	16	static
+../TouchGFX/gui/include/gui/model/ModelListener.hpp:24:18:virtual void ModelListener::addNewSensor(Sensor)	16	static
+../TouchGFX/gui/include/gui/model/ModelListener.hpp:25:18:virtual void ModelListener::setClimateData(int, int, int)	24	static
+../TouchGFX/gui/include/gui/model/ModelListener.hpp:26:18:virtual void ModelListener::setOutTemp(int, int, char*)	24	static
+../TouchGFX/gui/include/gui/model/ModelListener.hpp:29:18:virtual void ModelListener::setWLANstatus()	16	static
+../TouchGFX/gui/include/gui/model/ModelListener.hpp:30:18:virtual void ModelListener::setClockData(uint32_t)	16	static
+../TouchGFX/gui/include/gui/ha_screen_screen/HA_screenPresenter.hpp:34:13:HA_screenPresenter::~HA_screenPresenter()	16	static
+../TouchGFX/gui/include/gui/ha_screen_screen/HA_screenPresenter.hpp:34:13:virtual HA_screenPresenter::~HA_screenPresenter()	16	static
+..\TouchGFX\gui\src\ha_screen_screen\HA_screenPresenter.cpp:4:1:HA_screenPresenter::HA_screenPresenter(HA_screenView&)	16	static
+..\TouchGFX\gui\src\ha_screen_screen\HA_screenPresenter.cpp:10:6:virtual void HA_screenPresenter::activate()	16	static
+..\TouchGFX\gui\src\ha_screen_screen\HA_screenPresenter.cpp:15:6:virtual void HA_screenPresenter::deactivate()	16	static
+..\TouchGFX\gui\src\ha_screen_screen\HA_screenPresenter.cpp:21:6:virtual void HA_screenPresenter::addNewSensor(Sensor)	16	static

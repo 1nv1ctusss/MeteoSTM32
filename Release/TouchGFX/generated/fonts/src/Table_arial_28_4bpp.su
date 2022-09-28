@@ -1,0 +1,2 @@
+../TouchGFX/generated/fonts/src/Table_arial_28_4bpp.cpp:138:151:void __tcf_0()	0	static
+../TouchGFX/generated/fonts/src/Table_arial_28_4bpp.cpp:136:26:touchgfx::GeneratedFont& getFont_arial_28_4bpp()	56	static

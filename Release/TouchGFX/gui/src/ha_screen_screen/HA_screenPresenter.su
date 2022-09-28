@@ -1,0 +1,12 @@
+../TouchGFX/gui/include/gui/model/ModelListener.hpp:25:18:virtual void ModelListener::setClimateData(int, int, int)	0	static
+../TouchGFX/gui/include/gui/model/ModelListener.hpp:26:18:virtual void ModelListener::setOutTemp(int, int, char*)	0	static
+../TouchGFX/gui/include/gui/model/ModelListener.hpp:29:18:virtual void ModelListener::setWLANstatus()	0	static
+../TouchGFX/gui/include/gui/model/ModelListener.hpp:30:18:virtual void ModelListener::setClockData(uint32_t)	0	static
+../TouchGFX/gui/include/gui/ha_screen_screen/HA_screenPresenter.hpp:34:13:HA_screenPresenter::~HA_screenPresenter()	0	static
+../TouchGFX/gui/src/ha_screen_screen/HA_screenPresenter.cpp:10:6:virtual void HA_screenPresenter::activate()	0	static
+../TouchGFX/gui/src/ha_screen_screen/HA_screenPresenter.cpp:15:6:virtual void HA_screenPresenter::deactivate()	0	static
+../TouchGFX/gui/src/ha_screen_screen/HA_screenPresenter.cpp:21:6:virtual void HA_screenPresenter::addNewSensor(Sensor)	0	static
+../TouchGFX/gui/include/gui/ha_screen_screen/HA_screenPresenter.hpp:34:13:virtual HA_screenPresenter::~HA_screenPresenter()	8	static
+../TouchGFX/gui/include/gui/ha_screen_screen/HA_screenPresenter.hpp:34:13:virtual void* HA_screenPresenter::_ZThn4_N18HA_screenPresenterD1Ev()	0	static
+../TouchGFX/gui/include/gui/ha_screen_screen/HA_screenPresenter.hpp:31:18:virtual void HA_screenPresenter::_ZThn4_N18HA_screenPresenter12addNewSensorE7_Sensor(Sensor)	0	static
+../TouchGFX/gui/src/ha_screen_screen/HA_screenPresenter.cpp:4:1:HA_screenPresenter::HA_screenPresenter(HA_screenView&)	8	static

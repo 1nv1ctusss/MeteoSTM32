@@ -1,0 +1,12 @@
+..\SHT21\sht2x.c:14:6:SHT2x_Init	16	static
+..\SHT21\sht2x.c:21:6:SHT2x_SoftReset	24	static
+..\SHT21\sht2x.c:30:9:SHT2x_ReadUserReg	24	static
+..\SHT21\sht2x.c:43:10:SHT2x_GetRaw	32	static
+..\SHT21\sht2x.c:55:7:SHT2x_GetTemperature	24	static
+..\SHT21\sht2x.c:65:7:SHT2x_GetRelativeHumidity	24	static
+..\SHT21\sht2x.c:76:6:SHT2x_SetResolution	32	static
+..\SHT21\sht2x.c:88:7:SHT2x_CelsiusToFahrenheit	16	static
+..\SHT21\sht2x.c:97:7:SHT2x_CelsiusToKelvin	16	static
+..\SHT21\sht2x.c:107:9:SHT2x_GetInteger	16	static
+..\SHT21\sht2x.c:117:10:SHT2x_GetDecimal	24	static
+..\SHT21\sht2x.c:128:10:SHT2x_Ipow	24	static

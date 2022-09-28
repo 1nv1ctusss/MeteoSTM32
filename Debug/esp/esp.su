@@ -1,0 +1,7 @@
+..\esp\esp.c:45:6:EmulateHADevices	432	static
+..\esp\esp.c:57:6:StartSerialTask	3120	static
+..\esp\esp.c:103:6:esp_serial_init	8	static
+..\esp\esp.c:141:6:serial_send_msg	16	static
+..\esp\esp.c:147:6:serial_receive_msg	24	static
+..\esp\esp.c:156:6:UART8_IRQHandler	8	static
+..\esp\esp.c:161:6:HAL_UART_ErrorCallback	24	static

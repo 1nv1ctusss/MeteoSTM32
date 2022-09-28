@@ -1,0 +1,31 @@
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Application.hpp:77:18:virtual void touchgfx::Application::appSwitchScreen(uint8_t)	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Application.hpp:89:18:virtual void touchgfx::Application::requestRedraw(touchgfx::Rect&)	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/transitions/Transition.hpp:75:18:virtual void touchgfx::Transition::tearDown()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/transitions/Transition.hpp:83:18:virtual void touchgfx::Transition::init()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/transitions/Transition.hpp:103:18:virtual void touchgfx::Transition::setScreenContainer(touchgfx::Container&)	0	static
+../Middlewares/ST/touchgfx/framework/include/mvp/MVPApplication.hpp:47:7:touchgfx::MVPApplication::~MVPApplication()	0	static
+../TouchGFX/generated/gui_generated/include/gui_generated/common/FrontendApplicationBase.hpp:16:13:FrontendApplicationBase::~FrontendApplicationBase()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/transitions/NoTransition.hpp:38:18:virtual void touchgfx::NoTransition::handleTickEvent()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:68:13:touchgfx::TypedText::~TypedText()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/transitions/NoTransition.hpp:34:7:touchgfx::NoTransition::~NoTransition()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:430:8:touchgfx::Callback<FrontendApplicationBase>::~Callback()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:456:18:void touchgfx::Callback<dest_type, void, void, void>::execute() [with dest_type = FrontendApplicationBase]	4	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:466:18:bool touchgfx::Callback<dest_type, void, void, void>::isValid() const [with dest_type = FrontendApplicationBase]	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/transitions/NoTransition.hpp:34:7:virtual touchgfx::NoTransition::~NoTransition()	8	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:68:13:virtual touchgfx::TypedText::~TypedText()	8	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:430:8:virtual touchgfx::Callback<FrontendApplicationBase>::~Callback()	8	static
+../Middlewares/ST/touchgfx/framework/include/mvp/MVPApplication.hpp:47:7:virtual touchgfx::MVPApplication::~MVPApplication()	8	static
+../TouchGFX/generated/gui_generated/include/gui_generated/common/FrontendApplicationBase.hpp:16:13:virtual FrontendApplicationBase::~FrontendApplicationBase()	8	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/transitions/Transition.hpp:92:18:virtual void touchgfx::Transition::invalidate()	8	static
+../Middlewares/ST/touchgfx/framework/include/mvp/MVPApplication.hpp:63:18:virtual void touchgfx::MVPApplication::handlePendingScreenTransition()	8	static
+../TouchGFX/generated/gui_generated/src/common/FrontendApplicationBase.cpp:23:1:FrontendApplicationBase::FrontendApplicationBase(Model&, FrontendHeap&)	24	static
+../TouchGFX/generated/gui_generated/src/common/FrontendApplicationBase.cpp:40:6:void FrontendApplicationBase::gotoMainScreenScreenNoTransition()	0	static
+../TouchGFX/generated/gui_generated/src/common/FrontendApplicationBase.cpp:53:6:void FrontendApplicationBase::gotoMenuScreenScreenNoTransition()	0	static
+../TouchGFX/generated/gui_generated/src/common/FrontendApplicationBase.cpp:66:6:void FrontendApplicationBase::gotoScreenKeyboardScreenNoTransition()	0	static
+../TouchGFX/generated/gui_generated/src/common/FrontendApplicationBase.cpp:79:6:void FrontendApplicationBase::gotoHA_screenScreenNoTransition()	0	static
+../Middlewares/ST/touchgfx/framework/include/common/AbstractPartition.hpp:138:8:T& touchgfx::AbstractPartition::at(uint16_t) [with T = touchgfx::NoTransition]	0	static
+../TouchGFX/generated/gui_generated/src/common/FrontendApplicationBase.cpp:85:6:void FrontendApplicationBase::gotoHA_screenScreenNoTransitionImpl()	40	static
+../TouchGFX/generated/gui_generated/src/common/FrontendApplicationBase.cpp:72:6:void FrontendApplicationBase::gotoScreenKeyboardScreenNoTransitionImpl()	40	static
+../TouchGFX/generated/gui_generated/src/common/FrontendApplicationBase.cpp:59:6:void FrontendApplicationBase::gotoMenuScreenScreenNoTransitionImpl()	40	static
+../TouchGFX/generated/gui_generated/src/common/FrontendApplicationBase.cpp:46:6:void FrontendApplicationBase::gotoMainScreenScreenNoTransitionImpl()	40	static
+../TouchGFX/generated/gui_generated/src/common/FrontendApplicationBase.cpp:88:1:cpp)	0	static

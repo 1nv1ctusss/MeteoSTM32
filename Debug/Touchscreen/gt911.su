@@ -1,0 +1,12 @@
+..\Touchscreen\gt911.c:42:26:I2Cx_ReadMultiple	48	static
+..\Touchscreen\gt911.c:72:26:I2Cx_WriteMultiple	48	static
+..\Touchscreen\gt911.c:99:6:TS_IO_Write	24	static
+..\Touchscreen\gt911.c:110:9:TS_IO_Read	32	static
+..\Touchscreen\gt911.c:122:6:TS_IO_Delay	16	static
+..\Touchscreen\gt911.c:156:6:gt911_Init	16	static
+..\Touchscreen\gt911.c:174:9:gt911_ReadID	24	static
+..\Touchscreen\gt911.c:206:6:gt911_TS_Start	208	static
+..\Touchscreen\gt911.c:284:9:gt911_TS_DetectTouch	32	static
+..\Touchscreen\gt911.c:340:16:gt911_Get_I2C_InitializedStatus	4	static
+..\Touchscreen\gt911.c:350:13:gt911_I2C_InitializeIfRequired	8	static
+..\Touchscreen\gt911.c:367:17:gt911_TS_Configure	24	static

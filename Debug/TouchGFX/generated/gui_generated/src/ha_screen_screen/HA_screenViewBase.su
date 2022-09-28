@@ -1,0 +1,100 @@
+../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/Types.hpp:94:5:touchgfx::colortype::colortype(uint32_t)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/Types.hpp:130:5:touchgfx::Rect::Rect()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/Types.hpp:146:5:touchgfx::Rect::Rect(int16_t, int16_t, int16_t, int16_t)	24	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Bitmap.hpp:127:5:touchgfx::Bitmap::Bitmap(touchgfx::BitmapId)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:53:5:touchgfx::Drawable::Drawable()	24	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:64:13:touchgfx::Drawable::~Drawable()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:64:13:virtual touchgfx::Drawable::~Drawable()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:134:23:virtual touchgfx::Drawable* touchgfx::Drawable::getFirstChild()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:218:10:void touchgfx::Drawable::setPosition(int16_t, int16_t, int16_t, int16_t)	24	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:271:18:virtual void touchgfx::Drawable::setX(int16_t)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:283:18:virtual void touchgfx::Drawable::setY(int16_t)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:299:10:void touchgfx::Drawable::setXY(int16_t, int16_t)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:312:18:virtual void touchgfx::Drawable::setWidth(int16_t)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:324:18:virtual void touchgfx::Drawable::setHeight(int16_t)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:334:18:virtual void touchgfx::Drawable::childGeometryChanged()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:345:18:virtual void touchgfx::Drawable::handleClickEvent(const touchgfx::ClickEvent&)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:356:18:virtual void touchgfx::Drawable::handleGestureEvent(const touchgfx::GestureEvent&)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:367:10:void touchgfx::Drawable::setWidthHeight(int16_t, int16_t)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:444:18:virtual void touchgfx::Drawable::handleDragEvent(const touchgfx::DragEvent&)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:454:18:virtual void touchgfx::Drawable::handleTickEvent()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:478:10:void touchgfx::Drawable::setTouchable(bool)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:490:10:bool touchgfx::Drawable::isVisible() const	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:502:10:bool touchgfx::Drawable::isTouchable() const	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:541:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:578:10:void touchgfx::Drawable::resetDrawChainCache()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:656:18:virtual void touchgfx::Drawable::setupDrawChain(const touchgfx::Rect&, touchgfx::Drawable**)	24	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:49:13:touchgfx::Screen::~Screen()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:49:13:virtual touchgfx::Screen::~Screen()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:96:18:virtual void touchgfx::Screen::setupScreen()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:107:18:virtual void touchgfx::Screen::afterTransition()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:118:18:virtual void touchgfx::Screen::tearDownScreen()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:147:18:virtual void touchgfx::Screen::handleTickEvent()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:157:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:205:10:void touchgfx::Screen::add(touchgfx::Drawable&)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/HAL.hpp:109:17:static touchgfx::HAL* touchgfx::HAL::getInstance()	4	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/hal/HAL.hpp:226:17:static touchgfx::LCD& touchgfx::HAL::lcd()	4	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Widget.hpp:50:18:virtual void touchgfx::Widget::getLastChild(int16_t, int16_t, touchgfx::Drawable**)	24	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Widget.hpp:39:7:touchgfx::Widget::Widget()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Widget.hpp:39:7:touchgfx::Widget::~Widget()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Widget.hpp:39:7:virtual touchgfx::Widget::~Widget()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/AbstractButton.hpp:38:5:touchgfx::AbstractButton::AbstractButton()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/AbstractButton.hpp:65:10:void touchgfx::AbstractButton::setAction(touchgfx::GenericCallback<const touchgfx::AbstractButton&>&)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/AbstractButton.hpp:34:7:touchgfx::AbstractButton::~AbstractButton()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/AbstractButton.hpp:34:7:virtual touchgfx::AbstractButton::~AbstractButton()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Button.hpp:36:5:touchgfx::Button::Button()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Box.hpp:40:5:touchgfx::Box::Box()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Box.hpp:70:10:void touchgfx::Box::setColor(touchgfx::colortype)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Image.hpp:54:5:touchgfx::Image::Image(const touchgfx::Bitmap&)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/scrollers/DrawableList.hpp:42:13:touchgfx::DrawableListItemsInterface::~DrawableListItemsInterface()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/scrollers/DrawableList.hpp:42:13:virtual touchgfx::DrawableListItemsInterface::~DrawableListItemsInterface()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/scrollers/ScrollBase.hpp:354:18:virtual void touchgfx::ScrollBase::initialize()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/Container.hpp:42:7:touchgfx::Container::~Container()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/Container.hpp:42:7:virtual touchgfx::Container::~Container()	16	static
+../Middlewares/ST/touchgfx/framework/include/mvp/View.hpp:40:7:touchgfx::View<HA_screenPresenter>::~View()	16	static
+../Middlewares/ST/touchgfx/framework/include/mvp/View.hpp:40:7:virtual touchgfx::View<HA_screenPresenter>::~View()	16	static
+../TouchGFX/generated/gui_generated/include/gui_generated/ha_screen_screen/HA_screenViewBase.hpp:20:13:HA_screenViewBase::~HA_screenViewBase()	16	static
+../TouchGFX/generated/gui_generated/include/gui_generated/ha_screen_screen/HA_screenViewBase.hpp:20:13:virtual HA_screenViewBase::~HA_screenViewBase()	16	static
+../TouchGFX/generated/gui_generated/include/gui_generated/ha_screen_screen/HA_screenViewBase.hpp:23:18:virtual void HA_screenViewBase::scrollList1UpdateItem(ListElementContainer&, int16_t)	24	static
+../TouchGFX/generated/gui_generated/include/gui_generated/ha_screen_screen/HA_screenViewBase.hpp:29:26:FrontendApplication& HA_screenViewBase::application()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Color.hpp:51:22:static touchgfx::colortype touchgfx::Color::getColorFrom24BitRGB(uint8_t, uint8_t, uint8_t)	24	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/scrollers/DrawableList.hpp:38:7:constexpr touchgfx::DrawableListItemsInterface::DrawableListItemsInterface()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/scrollers/DrawableList.hpp:79:7:touchgfx::DrawableListItems<ListElementContainer, 6>::DrawableListItems()	24	static
+..\TouchGFX\generated\gui_generated\src\ha_screen_screen\HA_screenViewBase.cpp:8:1:HA_screenViewBase::HA_screenViewBase()	64	static
+..\TouchGFX\generated\gui_generated\src\ha_screen_screen\HA_screenViewBase.cpp:41:6:virtual void HA_screenViewBase::setupScreen()	24	static
+..\TouchGFX\generated\gui_generated\src\ha_screen_screen\HA_screenViewBase.cpp:50:6:void HA_screenViewBase::buttonCallbackHandler(const touchgfx::AbstractButton&)	16	static
+..\TouchGFX\generated\gui_generated\src\ha_screen_screen\HA_screenViewBase.cpp:61:6:void HA_screenViewBase::updateItemCallbackHandler(touchgfx::DrawableListItemsInterface*, int16_t, int16_t)	32	static
+../Middlewares/ST/touchgfx/framework/include/mvp/View.hpp:43:5:touchgfx::View<T>::View() [with T = HA_screenPresenter]	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:137:7:constexpr touchgfx::GenericCallback<const touchgfx::AbstractButton&>::GenericCallback()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:378:5:touchgfx::Callback<dest_type, T1, void, void>::Callback(dest_type*, void (dest_type::*)(T1)) [with dest_type = HA_screenViewBase; T1 = const touchgfx::AbstractButton&]	24	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:47:7:constexpr touchgfx::GenericCallback<touchgfx::DrawableListItemsInterface*, short int, short int>::GenericCallback()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:240:5:touchgfx::Callback<dest_type, T1, T2, T3>::Callback(dest_type*, void (dest_type::*)(T1, T2, T3)) [with dest_type = HA_screenViewBase; T1 = touchgfx::DrawableListItemsInterface*; T2 = short int; T3 = short int]	24	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/scrollers/DrawableList.hpp:101:21:int16_t touchgfx::DrawableListItems<TYPE, SIZE>::getNumberOfDrawables() [with TYPE = ListElementContainer; int SIZE = 6]	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/scrollers/DrawableList.hpp:95:11:TYPE& touchgfx::DrawableListItems<TYPE, SIZE>::operator[](int) [with TYPE = ListElementContainer; int SIZE = 6]	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:141:13:touchgfx::GenericCallback<T1, void, void>::~GenericCallback() [with T1 = const touchgfx::AbstractButton&]	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:141:13:touchgfx::GenericCallback<T1, void, void>::~GenericCallback() [with T1 = const touchgfx::AbstractButton&]	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:51:13:touchgfx::GenericCallback<T1, T2, T3>::~GenericCallback() [with T1 = touchgfx::DrawableListItemsInterface*; T2 = short int; T3 = short int]	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:51:13:touchgfx::GenericCallback<T1, T2, T3>::~GenericCallback() [with T1 = touchgfx::DrawableListItemsInterface*; T2 = short int; T3 = short int]	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:221:8:touchgfx::Callback<HA_screenViewBase, touchgfx::DrawableListItemsInterface*, short int, short int>::~Callback()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:221:8:virtual touchgfx::Callback<HA_screenViewBase, touchgfx::DrawableListItemsInterface*, short int, short int>::~Callback()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:362:8:touchgfx::Callback<HA_screenViewBase, const touchgfx::AbstractButton&>::~Callback()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:362:8:virtual touchgfx::Callback<HA_screenViewBase, const touchgfx::AbstractButton&>::~Callback()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/scrollers/DrawableList.hpp:79:7:touchgfx::DrawableListItems<ListElementContainer, 6>::~DrawableListItems()	24	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/scrollers/DrawableList.hpp:79:7:virtual touchgfx::DrawableListItems<ListElementContainer, 6>::~DrawableListItems()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Image.hpp:42:7:touchgfx::Image::~Image()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Image.hpp:42:7:virtual touchgfx::Image::~Image()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Box.hpp:36:7:touchgfx::Box::~Box()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Box.hpp:36:7:virtual touchgfx::Box::~Box()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Button.hpp:33:7:touchgfx::Button::~Button()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Button.hpp:33:7:virtual touchgfx::Button::~Button()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/scrollers/DrawableList.hpp:117:7:touchgfx::DrawableList::~DrawableList()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/scrollers/DrawableList.hpp:117:7:virtual touchgfx::DrawableList::~DrawableList()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/scrollers/ScrollBase.hpp:43:7:touchgfx::ScrollBase::~ScrollBase()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/scrollers/ScrollBase.hpp:43:7:virtual touchgfx::ScrollBase::~ScrollBase()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/scrollers/ScrollList.hpp:34:7:touchgfx::ScrollList::~ScrollList()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/scrollers/ScrollList.hpp:34:7:virtual touchgfx::ScrollList::~ScrollList()	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:254:18:void touchgfx::Callback<dest_type, T1, T2, T3>::execute(T1, T2, T3) [with dest_type = HA_screenViewBase; T1 = touchgfx::DrawableListItemsInterface*; T2 = short int; T3 = short int]	32	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:264:18:bool touchgfx::Callback<dest_type, T1, T2, T3>::isValid() const [with dest_type = HA_screenViewBase; T1 = touchgfx::DrawableListItemsInterface*; T2 = short int; T3 = short int]	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:392:18:void touchgfx::Callback<dest_type, T1, void, void>::execute(T1) [with dest_type = HA_screenViewBase; T1 = const touchgfx::AbstractButton&]	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:402:18:bool touchgfx::Callback<dest_type, T1, void, void>::isValid() const [with dest_type = HA_screenViewBase; T1 = const touchgfx::AbstractButton&]	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/scrollers/DrawableList.hpp:82:23:touchgfx::Drawable* touchgfx::DrawableListItems<TYPE, SIZE>::getDrawable(int16_t) [with TYPE = ListElementContainer; int SIZE = 6]	16	static

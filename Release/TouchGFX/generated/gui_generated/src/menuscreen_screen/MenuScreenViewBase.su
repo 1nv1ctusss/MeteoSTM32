@@ -1,0 +1,60 @@
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:134:23:virtual touchgfx::Drawable* touchgfx::Drawable::getFirstChild()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:271:18:virtual void touchgfx::Drawable::setX(int16_t)	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:283:18:virtual void touchgfx::Drawable::setY(int16_t)	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:312:18:virtual void touchgfx::Drawable::setWidth(int16_t)	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:324:18:virtual void touchgfx::Drawable::setHeight(int16_t)	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:334:18:virtual void touchgfx::Drawable::childGeometryChanged()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:345:18:virtual void touchgfx::Drawable::handleClickEvent(const touchgfx::ClickEvent&)	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:356:18:virtual void touchgfx::Drawable::handleGestureEvent(const touchgfx::GestureEvent&)	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:444:18:virtual void touchgfx::Drawable::handleDragEvent(const touchgfx::DragEvent&)	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:454:18:virtual void touchgfx::Drawable::handleTickEvent()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:541:18:virtual void touchgfx::Drawable::moveTo(int16_t, int16_t)	4	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:656:18:virtual void touchgfx::Drawable::setupDrawChain(const touchgfx::Rect&, touchgfx::Drawable**)	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/Container.hpp:154:23:virtual touchgfx::Drawable* touchgfx::Container::getFirstChild()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:96:18:virtual void touchgfx::Screen::setupScreen()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:107:18:virtual void touchgfx::Screen::afterTransition()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:118:18:virtual void touchgfx::Screen::tearDownScreen()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:147:18:virtual void touchgfx::Screen::handleTickEvent()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:157:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Widget.hpp:50:18:virtual void touchgfx::Widget::getLastChild(int16_t, int16_t, touchgfx::Drawable**)	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:68:13:touchgfx::TypedText::~TypedText()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/AbstractButtonContainer.hpp:115:18:virtual void touchgfx::AbstractButtonContainer::handlePressedUpdated()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/AbstractButtonContainer.hpp:120:18:virtual void touchgfx::AbstractButtonContainer::handleAlphaUpdated()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/AbstractButtonContainer.hpp:35:7:touchgfx::AbstractButtonContainer::~AbstractButtonContainer()	0	static
+../Middlewares/ST/touchgfx/framework/include/mvp/View.hpp:40:7:touchgfx::View<MenuScreenPresenter>::~View()	0	static
+../TouchGFX/generated/gui_generated/include/gui_generated/menuscreen_screen/MenuScreenViewBase.hpp:22:13:MenuScreenViewBase::~MenuScreenViewBase()	0	static
+../TouchGFX/generated/gui_generated/include/gui_generated/menuscreen_screen/MenuScreenViewBase.hpp:34:18:virtual void MenuScreenViewBase::keyboardSelected(uint8_t)	0	static
+../TouchGFX/generated/gui_generated/include/gui_generated/menuscreen_screen/MenuScreenViewBase.hpp:39:18:virtual void MenuScreenViewBase::updateScreen()	0	static
+../TouchGFX/generated/gui_generated/src/menuscreen_screen/MenuScreenViewBase.cpp:85:6:virtual void MenuScreenViewBase::setupScreen()	0	static
+../TouchGFX/generated/gui_generated/src/menuscreen_screen/MenuScreenViewBase.cpp:91:6:virtual void MenuScreenViewBase::afterTransition()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/ClickButtonTrigger.hpp:36:7:touchgfx::ClickButtonTrigger::~ClickButtonTrigger()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/BoxWithBorderButtonStyle.hpp:125:18:void touchgfx::BoxWithBorderButtonStyle<T>::handlePressedUpdated() [with T = touchgfx::ClickButtonTrigger]	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:362:8:touchgfx::Callback<MenuScreenViewBase, const touchgfx::AbstractButtonContainer&>::~Callback()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:362:8:touchgfx::Callback<MenuScreenViewBase, const touchgfx::AbstractButton&>::~Callback()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/BoxWithBorderButtonStyle.hpp:43:7:touchgfx::BoxWithBorderButtonStyle<touchgfx::ClickButtonTrigger>::~BoxWithBorderButtonStyle()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:392:18:void touchgfx::Callback<dest_type, T1, void, void>::execute(T1) [with dest_type = MenuScreenViewBase; T1 = const touchgfx::AbstractButtonContainer&]	8	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:402:18:bool touchgfx::Callback<dest_type, T1, void, void>::isValid() const [with dest_type = MenuScreenViewBase; T1 = const touchgfx::AbstractButtonContainer&]	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:392:18:void touchgfx::Callback<dest_type, T1, void, void>::execute(T1) [with dest_type = MenuScreenViewBase; T1 = const touchgfx::AbstractButton&]	8	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:402:18:bool touchgfx::Callback<dest_type, T1, void, void>::isValid() const [with dest_type = MenuScreenViewBase; T1 = const touchgfx::AbstractButton&]	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/BoxWithBorderButtonStyle.hpp:133:18:void touchgfx::BoxWithBorderButtonStyle<T>::handleAlphaUpdated() [with T = touchgfx::ClickButtonTrigger]	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:68:13:virtual touchgfx::TypedText::~TypedText()	8	static
+../Middlewares/ST/touchgfx/framework/include/mvp/View.hpp:40:7:virtual touchgfx::View<MenuScreenPresenter>::~View()	8	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/AbstractButtonContainer.hpp:35:7:virtual touchgfx::AbstractButtonContainer::~AbstractButtonContainer()	8	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/ClickButtonTrigger.hpp:36:7:virtual touchgfx::ClickButtonTrigger::~ClickButtonTrigger()	8	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:362:8:virtual touchgfx::Callback<MenuScreenViewBase, const touchgfx::AbstractButton&>::~Callback()	8	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Callback.hpp:362:8:virtual touchgfx::Callback<MenuScreenViewBase, const touchgfx::AbstractButtonContainer&>::~Callback()	8	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/BoxWithBorderButtonStyle.hpp:43:7:virtual touchgfx::BoxWithBorderButtonStyle<touchgfx::ClickButtonTrigger>::~BoxWithBorderButtonStyle()	8	static
+../TouchGFX/generated/gui_generated/include/gui_generated/menuscreen_screen/MenuScreenViewBase.hpp:22:13:virtual MenuScreenViewBase::~MenuScreenViewBase()	8	static
+../TouchGFX/generated/gui_generated/src/menuscreen_screen/MenuScreenViewBase.cpp:99:6:virtual void MenuScreenViewBase::keyboardSelectedVar(uint8_t)	8	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/AbstractButtonContainer.hpp:100:18:virtual void touchgfx::AbstractButtonContainer::executeAction()	8	static
+../TouchGFX/generated/gui_generated/src/menuscreen_screen/MenuScreenViewBase.cpp:123:6:void MenuScreenViewBase::flexButtonCallbackHandler(const touchgfx::AbstractButtonContainer&)	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/ClickButtonTrigger.hpp:48:18:virtual void touchgfx::ClickButtonTrigger::handleClickEvent(const touchgfx::ClickEvent&)	16	static
+../TouchGFX/generated/gui_generated/src/menuscreen_screen/MenuScreenViewBase.cpp:112:6:void MenuScreenViewBase::buttonCallbackHandler(const touchgfx::AbstractButton&)	8	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:299:10:void touchgfx::Drawable::setXY(int16_t, int16_t)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:218:10:void touchgfx::Drawable::setPosition(int16_t, int16_t, int16_t, int16_t)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Widget.hpp:39:7:touchgfx::Widget::Widget()	0	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Box.hpp:40:5:touchgfx::Box::Box()	8	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/TextArea.hpp:47:5:touchgfx::TextArea::TextArea()	8	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/Color.hpp:51:22:static touchgfx::colortype touchgfx::Color::getColorFrom24BitRGB(uint8_t, uint8_t, uint8_t)	16	static
+../Middlewares/ST/touchgfx/framework/include/touchgfx/containers/buttons/BoxWithBorderButtonStyle.hpp:46:5:touchgfx::BoxWithBorderButtonStyle<T>::BoxWithBorderButtonStyle() [with T = touchgfx::ClickButtonTrigger]	16	static
+../TouchGFX/generated/gui_generated/src/menuscreen_screen/MenuScreenViewBase.cpp:9:1:MenuScreenViewBase::MenuScreenViewBase()	104	static
